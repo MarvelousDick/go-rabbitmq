@@ -14,7 +14,7 @@ func main() {
 		fmt.Println(body)
 
 		/**
-			使用默认的交换机
+			使用默认的交换机 测试
 			如果是默认交换机
 			type QueueExchange struct {
 			QuName  string           // 队列名称
